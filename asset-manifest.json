@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Waffle-house/static/css/main.6cf01ef1.css",
+    "main.js": "/Waffle-house/static/js/main.909aa00d.js",
+    "static/media/wafflevid.mp4": "/Waffle-house/static/media/wafflevid.d2786791b0328f84a16a.mp4",
+    "static/media/bg.png": "/Waffle-house/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/Waffle-house/static/media/findus.2b4fcdd60609696a2f41.png",
+    "static/media/headerimg.png": "/Waffle-house/static/media/headerimg.987322d96391cdbfd5a2.png",
+    "static/media/gift.png": "/Waffle-house/static/media/gift.acf2b68a3d6ecd41dc80.png",
+    "static/media/pic4.jpeg": "/Waffle-house/static/media/pic4.44db24e784ee32d01eb5.jpeg",
+    "static/media/knife.png": "/Waffle-house/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Waffle-house/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/waffleice.jpg": "/Waffle-house/static/media/waffleice.8c412d05e53aeba867e4.jpg",
+    "static/media/pic1.jpeg": "/Waffle-house/static/media/pic1.ec6944449dde6ec7b033.jpeg",
+    "static/media/pic2.jpeg": "/Waffle-house/static/media/pic2.20e93a4a3241bb6de373.jpeg",
+    "static/media/pic3.jpeg": "/Waffle-house/static/media/pic3.aa893d1bbbaab588298b.jpeg",
+    "static/media/menu.jpg": "/Waffle-house/static/media/menu.fa96d9660d329507b405.jpg",
+    "static/media/headerwaffle.jpg": "/Waffle-house/static/media/headerwaffle.aa3ff5255358a1585217.jpg",
+    "static/media/main.png": "/Waffle-house/static/media/main.a21e5482d425791ea470.png",
+    "static/media/letter.png": "/Waffle-house/static/media/letter.5b07a756d5ad5f80dc9d.png",
+    "static/media/G.png": "/Waffle-house/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/Waffle-house/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Waffle-house/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Waffle-house/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Waffle-house/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Waffle-house/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Waffle-house/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/Waffle-house/index.html",
+    "static/media/spoon.svg": "/Waffle-house/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.6cf01ef1.css.map": "/Waffle-house/static/css/main.6cf01ef1.css.map",
+    "main.909aa00d.js.map": "/Waffle-house/static/js/main.909aa00d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf01ef1.css",
+    "static/js/main.909aa00d.js"
+  ]
+}
